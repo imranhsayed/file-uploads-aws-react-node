@@ -14,7 +14,7 @@
 
 Update your AWS accessKeyId, secretAccessKey and Bucket name in `./routes/api/profile.js`
 
-```$xslt
+``` ruby
 const s3 = new aws.S3({
 	accessKeyId: 'xxx',
 	secretAccessKey: 'xxx',
