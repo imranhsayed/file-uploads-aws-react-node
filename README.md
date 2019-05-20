@@ -6,7 +6,20 @@
 ## File Upload :computer:
 ![](image-upload-aws.png)
 
-## Installation Instructions :point_right:
+## Use :point_right:
+
+Update your AWS accessKeyId, secretAccessKey and Bucket name in `./routes/api/profile.js`
+
+```$xslt
+const s3 = new aws.S3({
+	accessKeyId: 'xxx',
+	secretAccessKey: 'xxx',
+	Bucket: 'yourbucketname'
+});
+
+```
+
+## Installation Instructions :wrench:
 
 1. Clone the repo using `git clone https://github.com/imranhsayed/file-uploads-aws-react-node`
 2. `cd file-uploads-aws-react-node`
