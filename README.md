@@ -3,6 +3,10 @@
 ## Description :clipboard:
 > Demo App for Single and Multiple File Uploads on AWS ( Amazon Web Services ) Bucket
 
+******* PLEASE STAR MY REPO TO SUPPORT ME 🙏 ******
+
+Please follow me 🙏 on [twitter](https://twitter.com/imranhsayed) and github
+
 ![](aws-sdk-image.jpg)
 
 ## File Upload :computer:
