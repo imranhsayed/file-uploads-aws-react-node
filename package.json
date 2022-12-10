@@ -19,7 +19,7 @@
     "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.3",
     "concurrently": "^4.0.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "mongoose": "^5.7.5",
     "multer": "^1.4.0",
     "multer-s3": "^2.7.0",
